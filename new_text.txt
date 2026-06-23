@@ -1,3 +1,2 @@
 # githubdemo
 
-This is sample text to check git diff
